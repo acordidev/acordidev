@@ -1,6 +1,6 @@
-# opa!
+## opa!
 
-## 14yo | brasil | python | linux | aspirante a dev
+### 14yo | brasil | python | linux | aspirante a dev
 
 ## Siga minha redes sociais!:
 ### Instagram: [Link](https://www.instagram.com/acordi.skt)
