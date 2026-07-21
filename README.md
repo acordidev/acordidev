@@ -1,6 +1,6 @@
 ## opa!
 
-### 14yo | brasil | python | linux | aspirante a dev
+### 14yo | brasil | python | linux
 
 ### *"Talk is cheap. Show me the code."*
 ### - Linus Torvalds
